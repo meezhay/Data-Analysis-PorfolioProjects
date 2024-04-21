@@ -1,4 +1,4 @@
 Keeping all my learnings and projects in one place
-- From Data Analyst bootcamp series from YT
+- From Data Analyst Bootcamp series from YT
 - Mode
-- etc
+- Udemy, etc.
